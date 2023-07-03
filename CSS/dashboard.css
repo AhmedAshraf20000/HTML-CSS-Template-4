@@ -140,7 +140,7 @@ nav input {
   display: block;
 }
 nav input:focus {
-  border: none;
+  outline: none;
 }
 nav .field i {
   margin-right: 5px;
