@@ -332,3 +332,27 @@ nav .icons i::after {
 .bar-1 span {
   background-color: var(--red-color);
 }
+.bar-2 span{
+  background-color: var(--blue-color);
+}
+.bar-4 span {
+  background-color: var(--green-color);
+}
+.bar-3 span{
+  background-color: var(--grey-color);
+}
+.bar-5 span {
+  background-color: var(--red-color);
+}
+.bar-6 span{
+  background-color: var(--blue-color);
+}
+.bar-7 span {
+  background-color: var(--grey-color);
+}
+.bar-8 span{
+  background-color: var(--green-color);
+}
+.bar-9 span{
+  background-color: var(--red-color);
+}
