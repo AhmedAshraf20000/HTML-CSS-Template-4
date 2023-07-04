@@ -270,26 +270,27 @@ nav .icons i::after {
 .pro .head {
   outline: 3px solid var(--orange-color);
   background-color: var(--orange-color);
+  max-width: 100%;
 }
 .box .head p:last-child {
   font-size: 40px;
   font-weight: 400;
 }
-ul {
+.box ul {
   margin-top: 20px;
 }
-ul li {
+.box ul li {
   padding: 15px 0;
   border-bottom: 1px solid #ddd;
   position: relative;
 }
-ul li i:first-child {
+.box ul li i:first-child {
   margin-right: 4px;
 }
-ul li .yes {
+.box ul li .yes {
   color: var(--green-color);
 }
-ul li .fa-xmark {
+.box ul li .fa-xmark {
   color: var(--red-color);
 }
 .help {
