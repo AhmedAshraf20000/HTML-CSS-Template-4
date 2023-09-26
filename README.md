@@ -1,6 +1,6 @@
 # Project Title
 
-Leon Template
+Elzero Template
 
 ## Getting Started
 
