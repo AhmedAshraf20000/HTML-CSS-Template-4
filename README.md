@@ -16,4 +16,4 @@ Just clone the repo and run it on the the live server.
 
 ### Live demo
 
-You can visit the website through this link [live demo](https://s-l-a-y-e-r.github.io/Elzero-Template-HTML-CSS/index.html)
+You can visit the website through this link [live demo](https://elzero-template-html-css.vercel.app/)
